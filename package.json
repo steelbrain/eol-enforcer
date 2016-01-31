@@ -3,16 +3,9 @@
   "main": "./lib/main",
   "version": "0.0.0",
   "description": "Line ending enforcer",
-  "keywords": [
-  ],
-  "activationCommands": {
-    "atom-workspace": "eol-enforcer:toggle"
-  },
-  "repository": "https://github.com/atom/eol-enforcer",
+  "repository": "https://github.com/steelbrain/eol-enforcer",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {
   }
 }
