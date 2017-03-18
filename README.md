@@ -1,5 +1,7 @@
 # EOl-Enforcer
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/steelbrain/eol-enforcer.svg)](https://greenkeeper.io/)
+
 An Atom Package that enforces EOL on files
 
 ## Configuration
